@@ -8,7 +8,7 @@ module.exports = {
     run: async (bot, message, args) => {
     message.delete()
     // reasoning definition
-    let suggestion = args.join(" ");
+    let suggestion = args.join("850484344991907842");
     if (!suggestion)
       return message.channel
         .send(`Please provide a suggestion!`)
