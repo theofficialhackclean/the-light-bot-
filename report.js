@@ -9,7 +9,7 @@ module.exports = {
     message.delete()
     // reasoning definition
     let suggestion = args.join("850484344991907842");
-    if (!suggestion)
+    if (.suggestion)
       return message.channel
         .send(`Please provide a suggestion!`)
         .then(m => m.delete(15000));
