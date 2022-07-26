@@ -1,1 +1,42 @@
-# the-everything-bot- is a discord bot  that  dose crazy things like rock paper and sizers  and much more 
+𝗧𝗵𝗲 𝗹𝗶𝗴𝗵𝘁 𝗯𝗼𝘁
+
+
+
+
+
+version 1.0
+
+
+
+
+Ｆｅａｔｕｒｅｓ
+
+Ｆｕｎ [6]
+•meme
+•coinflip
+•rps
+•hangman 
+•tictactoe 
+•giveaways 
+
+
+Ｉｎｆｏ [4]
+•Help
+•level
+•ping
+•weather 
+
+
+Ｍｏｄｅｒａｔｉｏｎ [6]
+•ban 
+•kick
+•prefix 
+•setwelcome 
+•warn
+•warnings 
+
+
+
+
+
+
