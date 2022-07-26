@@ -35,6 +35,9 @@ version 1.0
 •warn
 •warnings 
 
+version 2.0 in the works adds the slash
+command 
+
 
 
 
